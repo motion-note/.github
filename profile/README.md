@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://vite.dev/"><img src="https://vite.dev/logo.svg" alt="Vite logo" width="200"></a>
+  <a href="https://vite.dev/"><img src="logo.png" alt="motion note logo" width="200"></a>
   
   # Motion Note
   
